@@ -79,7 +79,7 @@ footer a {
 /* Hero Style End */
 
 .hero-form {
-    border: solid 3px #024e76;
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
@@ -96,10 +96,6 @@ footer a {
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
-}
-
-.hero-form p {
-    margin: 5px 0 15px 0;
 }
 
 .form-input {
