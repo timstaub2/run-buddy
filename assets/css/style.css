@@ -231,7 +231,7 @@ footer a {
 
 /* Reach Out CSS */
 .contact {
-    width: 900px;
+    width: 100%;
     margin: 0 auto 30px auto;
     text-align: center;
     background-color: #024e76;
@@ -249,17 +249,24 @@ footer a {
     height: 400px;
 }
 
+.contact-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 .contact-info div {
     width: 410px;
-    height: 410px;
+    /* height: 410px; */
     display: inline-block;
-    vertical-align: middle;
+    /* vertical-align: middle; */
     text-align: left;
     margin: 30px 0 0 0;
     color: white;
 } 
 
-.contact-info h3 {
+.contact-info h3, .contact a {
     color: #fce138;
 }
 
@@ -270,6 +277,4 @@ footer a {
     font-style: normal;
 }
 
-.contact-info a {
-    color: #fce138;
-}
+
