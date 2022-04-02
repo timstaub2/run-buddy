@@ -1,0 +1,49 @@
+secondary-content {
+    width: 80%;
+    margin: center;
+
+}
+.hero {
+    background-position: bottom;
+    padding: 50px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-title {
+    color: #fce138;
+}
+
+h2 {
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
+article {
+    color: #024e76;
+    padding: 0 80px 15px 80px;
+}
+
+h3 {
+    font-size: 25px;
+    margin: 20px 0 20px 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+}
+
+ul {
+    margin: 15px 20px 15px 20px;
+}
+
+li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
+}
